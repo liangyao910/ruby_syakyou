@@ -146,7 +146,7 @@ p " "
 n = 1
 p -n
 p 1/2
-#page1254~
+#page1254
 
 
 # p fizz_buzz(1)

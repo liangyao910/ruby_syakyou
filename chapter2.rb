@@ -136,6 +136,19 @@ p 'abc' < 'ab'
 p 'abc' < 'abcd'
 p 'あいうえお' < 'かきくけこ'
 
+p " "
+p 1_000_000_000
+p 10 + 20
+p 100 - 25
+p 12 * 5
+p 20 / 5
+p " "
+n = 1
+p -n
+p 1/2
+#page1254~
+
+
 # p fizz_buzz(1)
 # p fizz_buzz(2)
 # p fizz_buzz(3)
